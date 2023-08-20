@@ -4,7 +4,7 @@
 这是我初二的时候自己摸索着搞出来的小东西！主要是为了打断老师的PPT以实现防止拖堂的效果~现在上传到这里以作纪念~
 
 ### 机制
-借助 Windows 自带的 [任务计划程序](https://learn.microsoft.com/zh-cn/windows/win32/taskschd/about-the-task-scheduler) 在下课时注销 Windows 登录
+借助 Windows 自带的 [任务计划程序](https://learn.microsoft.com/zh-cn/windows/win32/taskschd/about-the-task-scheduler) 在下课时强制关闭正在运行的应用程序而不事先警告用户/注销 Windows 登录/更多…
 
 ### 基础用法
 > 此教程**面对学生阶段的电脑小白**，不严谨的地方*不喜勿喷*
