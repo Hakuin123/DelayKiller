@@ -6,7 +6,7 @@
 
 ### 基础用法
 > 此教程**面对学生阶段的电脑小白**，不严谨的地方*不喜勿喷*
-1. [点击这里]()下载`拖堂终结者.xml`文件，下载到桌面
+1. [点击这里](https://github.com/Hakuin123/DelayKiller/releases/download/latest/DelayKiller.xml)下载`拖堂终结者.xml`文件，下载到桌面
 2. 打开`任务计划程序`
    - 按下键盘上的`Windows 徽标键`/任务栏上的`开始`（Windows标志）打开开始菜单,在应用列表中找到'Windows 工具'，找到并打开`任务计划程序`
    - 打开`控制面板` - `所有控制面板项` - `Windows 工具`，找到并打开`任务计划程序`
